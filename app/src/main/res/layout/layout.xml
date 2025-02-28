@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:tools="http://schemas.android.com/tools">
+    android:orientation="vertical">
 
-<ScrollView
+    <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#1C1C78"
@@ -35,6 +36,7 @@
                 android:backgroundTint="#40FFFFFF"
                 android:text="002 : ONE 🖤"
                 android:textAlignment="viewStart"
+                android:textAllCaps="false"
                 android:textColor="#FF9800"
                 android:visibility="visible"
                 tools:visibility="visible" />
@@ -46,6 +48,7 @@
                 android:backgroundTint="#40FFFFFF"
                 android:text="003 : ZDF"
                 android:textAlignment="viewStart"
+                android:textAllCaps="false"
                 android:textColor="#FF9800"
                 android:visibility="visible"
                 tools:visibility="visible" />
@@ -54,8 +57,505 @@
                 android:id="@+id/button004"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="left|center_vertical"
-                android:text="003 : ZDFneo 🖤" />
+                android:backgroundTint="#40FFFFFF"
+                android:text="004 : ZDFneo 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button005"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="005 : BR Nord"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button006"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="006 : RTL 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button007"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="007 : RTL II 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button008"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="008 : RTL Super"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button009"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="009 : RTL Nitro 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button010"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="010 : RTLup 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button011"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="011 : RTL Crime 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button012"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="012 : RTL Living"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button013"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="013 : Pro 7 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button014"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="014 : Pro 7 MAXX 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button015"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="014 : Pro 7 FUN 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button016"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="016 : Sat.1 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button017"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="017 : Sat.1 GOLD 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button018"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="018 : Sat.1 emotions"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button019"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="019 : Kabel 1 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button020"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="020 : Kabel 1 CLASSİC 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button021"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="021 : Kabel 1 Doku"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button022"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="022 : VOX 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button023"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="023 : VOXup 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button024"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="024 : Tele 5 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button025"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="025 : Comedy Central 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button026"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="026 : SYFY"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button027"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="027 : Utopja"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button028"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="028 : TOP SCİ-Fİ"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button029"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="029 : Bloody Movies"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button030"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="030 : Screamtime"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button031"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="031 : Home of Horror"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button032"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="032 : Warner TV Film 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button033"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="033 : Warner TV Serie 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button034"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="034 : Warner TV Comedy 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button035"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="034 : Universal TV 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button036"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="036 : 13'th Street 🖤"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button037"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="037 : Craction TV"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button038"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="038 : Top Filme"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button039"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="039 : Filmbox Arthouse"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button040"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="040 : Filmlegenden"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button041"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="041 : Filmpalast"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button042"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="042 : FilmRise Serien"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button043"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="043 : Filmtastic"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button044"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="044 : Film Total"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
+
+            <Button
+                android:id="@+id/button045"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#40FFFFFF"
+                android:text="045 : alleskino"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#FF9800"
+                android:visibility="visible"
+                tools:visibility="visible" />
 
         </LinearLayout>
     </ScrollView>
